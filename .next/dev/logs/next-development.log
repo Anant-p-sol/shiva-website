@@ -1,0 +1,1012 @@
+[00:00:01.522] Server  LOG     
+[00:00:01.523] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.525] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.526] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.526] Server  LOG     
+[00:00:01.526] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.527] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.527] Server  LOG     
+[00:00:01.890] Server  LOG      ✓ Ready in 1181ms
+[00:00:16.789] Server  LOG      ○ Compiling / ...
+[00:00:21.494] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:23.245] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:23.245] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:23.245] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764944172522}
+[00:03:46.556] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764944375831}
+[00:04:05.339] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764944394617}
+[00:37:23.353] Server  LOG      ✓ Compiled in 138ms
+[00:37:38.565] Server  LOG      ✓ Compiled in 122ms
+[00:38:05.794] Server  LOG      ✓ Compiled in 110ms
+[00:40:12.182] Server  LOG      ✓ Compiled in 122ms
+[00:41:23.387] Server  LOG      ✓ Compiled in 112ms
+[00:42:17.923] Server  LOG      ✓ Compiled in 137ms
+[00:43:04.495] Server  LOG      ✓ Compiled in 105ms
+[00:46:37.296] Server  LOG      ✓ Compiled in 289ms
+[00:47:20.676] Server  LOG      ✓ Compiled in 158ms
+[00:47:36.532] Server  LOG      ✓ Compiled in 80ms
+[00:47:46.250] Server  LOG      ✓ Compiled in 64ms
+[00:47:49.971] Server  LOG      ✓ Compiled in 151ms
+[00:47:52.486] Server  LOG      ✓ Compiled in 128ms
+[00:47:54.295] Server  LOG      ✓ Compiled in 127ms
+[00:47:56.391] Server  LOG      ✓ Compiled in 127ms
+[00:48:08.880] Server  LOG      ✓ Compiled in 99ms
+[00:48:11.083] Server  LOG      ✓ Compiled in 165ms
+[00:48:14.235] Server  LOG      ✓ Compiled in 94ms
+[00:48:18.188] Server  LOG      ✓ Compiled in 52ms
+[00:48:19.541] Server  LOG      ✓ Compiled in 125ms
+[00:48:21.675] Server  LOG      ✓ Compiled in 69ms
+[00:48:22.955] Server  LOG      ✓ Compiled in 178ms
+[00:48:30.561] Server  LOG      ✓ Compiled in 141ms
+[00:48:34.343] Server  LOG      ✓ Compiled in 101ms
+[00:48:49.674] Server  LOG      ✓ Compiled in 58ms
+[00:54:09.363] Server  LOG      ✓ Compiled in 148ms
+[00:54:46.886] Server  LOG      ✓ Compiled in 118ms
+[00:55:24.314] Server  LOG      ✓ Compiled in 143ms
+[00:58:24.653] Server  LOG      ✓ Compiled in 183ms
+[00:58:24.757] Browser ERROR   ./components/team.tsx:28:28
+Parsing ecmascript source code failed
+  26 |                   alt="Shiva Verma"
+  27 |                   width={500}
+> 28 |                   height={7t00}
+     |                            ^^^
+  29 |                   className="w-full h-auto object-cover"
+  30 |                   priority
+  31 |                 />
+
+Expected '</', got 't00'
+
+Import trace:
+  Server Component:
+    ./components/team.tsx
+    ./app/page.tsx
+[00:59:17.280] Server  LOG      ✓ Compiled in 243ms
+[00:59:18.793] Server  LOG      ✓ Compiled in 244ms
+[01:00:45.542] Server  LOG      ✓ Compiled in 101ms
+[01:01:55.277] Server  LOG      ✓ Compiled in 99ms
+[01:01:57.564] Server  LOG      ✓ Compiled in 86ms
+[01:02:03.976] Server  LOG      ✓ Compiled in 143ms
+[01:02:46.765] Server  LOG      ✓ Compiled in 302ms
+[01:03:01.249] Server  LOG      ✓ Compiled in 178ms
+[01:03:02.478] Server  LOG      ✓ Compiled in 151ms
+[01:04:29.170] Server  LOG      ✓ Compiled in 128ms
+[01:04:42.720] Server  LOG      ✓ Compiled in 134ms
+[01:04:53.070] Server  LOG      ✓ Compiled in 119ms
+[01:05:01.270] Server  LOG      ✓ Compiled in 153ms
+[01:05:09.913] Server  LOG      ✓ Compiled in 80ms
+[01:05:30.762] Server  LOG      ✓ Compiled in 65ms
+[01:05:36.863] Server  LOG      ✓ Compiled in 124ms
+[01:05:43.056] Server  LOG      ✓ Compiled in 158ms
+[01:05:56.072] Server  LOG      ✓ Compiled in 79ms
+[01:06:00.107] Server  LOG      ✓ Compiled in 99ms
+[01:06:39.789] Server  LOG      ✓ Compiled in 116ms
+[01:09:07.353] Server  LOG      ✓ Compiled in 75ms
+[01:09:12.068] Server  LOG      ✓ Compiled in 160ms
+[01:10:03.426] Server  LOG      ✓ Compiled in 57ms
+[01:10:35.962] Server  LOG      ✓ Compiled in 124ms
+[01:11:57.989] Server  LOG      ✓ Compiled in 96ms
+[01:12:21.784] Server  LOG      ✓ Compiled in 67ms
+[01:13:29.068] Server  LOG      ✓ Compiled in 220ms
+[01:14:18.926] Server  LOG      ✓ Compiled in 261ms
+[01:14:40.407] Server  LOG      ✓ Compiled in 327ms
+[01:14:43.802] Server  LOG      ✓ Compiled in 238ms
+[01:22:01.796] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949071071}
+[01:22:32.225] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949101502}
+[01:22:41.320] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949110597}
+[01:25:21.687] Server  LOG      ✓ Compiled in 89ms
+[01:26:03.526] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949312798}
+[01:29:19.849] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949509116}
+[01:30:21.620] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949570895}
+[01:32:29.136] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:29.424] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:32:29.424] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:32:29.424] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949698706}
+[01:34:39.575] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:34:39.808] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:34:39.808] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:34:39.808] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949829085}
+[01:36:37.702] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949946969}
+[01:36:51.983] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949961259}
+[01:36:53.874] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764949963154}
+[01:43:13.748] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764950343023}
+[03:07:27.859] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764992724084}
+[03:07:35.818] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764992731997}
+[03:23:35.156] Server  LOG      ✓ Compiled in 317ms
+[03:23:53.323] Server  LOG      ✓ Compiled in 398ms
+[03:24:18.438] Server  LOG      ✓ Compiled in 234ms
+[03:24:36.368] Server  LOG      ✓ Compiled in 346ms
+[03:25:04.811] Server  LOG      ✓ Compiled in 284ms
+[03:25:20.060] Server  LOG      ✓ Compiled in 174ms
+[03:26:12.331] Server  LOG      ✓ Compiled in 344ms
+[03:27:07.992] Server  LOG      ✓ Compiled in 239ms
+[03:27:20.524] Server  LOG      ✓ Compiled in 223ms
+[03:27:43.504] Server  LOG      ✓ Compiled in 203ms
+[03:28:17.454] Server  LOG      ✓ Compiled in 304ms
+[03:29:29.122] Server  LOG      ✓ Compiled in 203ms
+[03:29:57.028] Server  LOG      ✓ Compiled in 315ms
+[03:30:20.852] Server  LOG      ✓ Compiled in 331ms
+[03:30:39.410] Server  LOG      ✓ Compiled in 218ms
+[03:31:09.878] Server  LOG      ✓ Compiled in 316ms
+[03:31:29.001] Server  LOG      ✓ Compiled in 326ms
+[03:31:49.054] Server  LOG      ✓ Compiled in 316ms
+[03:31:52.720] Server  LOG      ✓ Compiled in 269ms
+[03:31:57.282] Server  LOG      ✓ Compiled in 194ms
+[03:32:03.582] Server  LOG      ✓ Compiled in 212ms
+[03:32:28.328] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:32:28.699] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:32:28.699] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:32:28.699] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764995379062}
+[03:32:43.056] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764995393388}
+[03:33:42.654] Server  LOG      ✓ Compiled in 202ms
+[03:33:45.337] Server  LOG      ✓ Compiled in 120ms
+[03:33:47.783] Server  LOG      ✓ Compiled in 174ms
+[03:33:56.568] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764995466924}
+[03:36:26.947] Server  LOG      ✓ Compiled in 251ms
+[03:36:36.117] Server  LOG      ✓ Compiled in 245ms
+[03:36:40.840] Server  LOG      ✓ Compiled in 224ms
+[03:36:43.367] Server  LOG      ✓ Compiled in 278ms
+[03:36:44.975] Server  LOG      ✓ Compiled in 197ms
+[03:36:50.206] Server  LOG      ✓ Compiled in 147ms
+[03:36:53.306] Server  LOG      ✓ Compiled in 205ms
+[03:36:55.268] Server  LOG      ✓ Compiled in 160ms
+[03:36:58.659] Server  LOG      ✓ Compiled in 416ms
+[03:37:00.544] Server  LOG      ✓ Compiled in 143ms
+[03:37:03.169] Server  LOG      ✓ Compiled in 194ms
+[03:37:05.305] Server  LOG      ✓ Compiled in 180ms
+[03:37:16.591] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764995666940}
+[03:40:12.558] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:40:12.845] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:40:12.845] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/events","route":"/events"}
+[03:40:12.845] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764995843211}
+[03:44:45.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:44:46.019] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:44:46.019] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:44:46.019] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996116384}
+[03:44:56.927] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996127116}
+[03:48:29.078] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:48:29.468] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:48:29.468] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:48:29.468] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996339830}
+[03:48:39.481] Server  WARN     ⚠ Cross origin request detected from 192.168.137.35 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[03:48:39.662] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:48:40.439] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:48:40.439] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:48:40.439] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996350803}
+[03:50:05.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:50:07.011] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:50:07.011] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:50:07.012] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996436078}
+[03:50:31.791] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://192.168.137.35:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996461035}
+[03:52:48.989] Server  LOG      ✓ Compiled in 156ms
+[03:52:53.409] Server  LOG      ✓ Compiled in 222ms
+[03:53:14.261] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996623315}
+[03:57:56.805] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:57:57.207] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:57:57.208] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:57:57.208] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764996907572}
+[04:00:50.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:00:51.376] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:00:51.377] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:00:51.377] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764997080356}
+[05:25:33.249] Server  LOG        Reload env: .env
+[05:37:40.163] Server  LOG        Reload env: .env
+[05:46:49.462] Server  LOG        Reload env: .env
+[05:46:56.464] Server  LOG        Reload env: .env
+[06:04:06.780] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:04:07.497] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[06:04:07.497] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[06:04:07.497] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765032901159}
+[06:13:49.077] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.079] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.091] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.093] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.096] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.099] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.101] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.103] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.106] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.109] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.115] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.117] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.123] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.128] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:13:49.152] Server  LOG      ✓ Compiled in 179ms
+[06:13:50.936] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:14:50.040] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:14:50.302] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[06:14:50.302] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[06:14:50.302] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765033545216}
+[06:24:41.208] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:24:41.692] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[06:24:41.692] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[06:24:41.693] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765034135508}
+[06:34:21.933] Server  LOG        Reload env: .env
+[06:34:28.856] Server  LOG        Reload env: .env
+[06:34:45.849] Server  LOG        Reload env: .env
+[06:36:19.088] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.089] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.092] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.093] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.095] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.098] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.101] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.104] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.109] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.112] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.118] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.120] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.123] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.125] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:19.128] Server  LOG      ✓ Compiled in 156ms
+[06:36:20.945] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:48.169] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:49.116] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:50.178] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.217] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.264] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.303] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.339] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.370] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.405] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:50.429] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:50.429] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:50.429] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:50.429] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:50.445] Server  ERROR    ⨯ ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:52.981] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:52.981] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:36:52.981] Browser ERROR   uncaughtError: Error: ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[06:36:52.981] Browser ERROR   ./app/page.tsx:9:1
+Module not found: Can't resolve '@/components/contact-form'
+   7 | import { Team } from "@/components/team"
+   8 | import { Testimonials } from "@/components/testimonials"
+>  9 | import { ContactForm } from "@/components/contact-form"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { Footer } from "@/components/footer"
+  11 |
+  12 | export const metadata = {
+
+Import map: aliased to relative './components/contact-form' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[06:37:02.829] Server  LOG      ✓ Compiled in 258ms
+[06:37:04.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:37:05.158] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[06:37:05.158] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[06:37:05.158] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765034879455}
+[06:38:28.639] Browser WARN    Image with src "/wedding-ceremony-outdoor-setup.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:38:28.639] Browser WARN    Image with src "/elegant-wedding-table-setting-flowers.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:40:23.256] Server  LOG        Reload env: .env
+[06:40:24.621] Server  LOG        Reload env: .env
+[06:40:28.949] Server  LOG        Reload env: .env
+[06:41:27.826] Server  LOG        Reload env: .env
+[06:41:31.173] Server  LOG        Reload env: .env
+[06:41:38.649] Server  LOG        Reload env: .env
+[06:41:42.507] Server  LOG        Reload env: .env
+[06:43:17.368] Server  LOG        Reload env: .env
+[06:43:43.474] Server  LOG     [v0] Sending email with: {}
+[06:43:59.964] Server  LOG     [v0] Email sent successfully to user and admin
+[06:47:35.029] Server  LOG        Reload env: .env
+[06:47:44.940] Server  LOG        Reload env: .env
+[06:48:27.555] Server  LOG     [v0] Sending email with: {}
+[06:48:38.902] Server  LOG     [v0] Email sent successfully to user and admin
+[07:04:25.738] Server  LOG        Reload env: .env
+[07:05:01.671] Server  LOG     [v0] Sending email with: {}
+[07:05:13.903] Server  ERROR   [v0] Email send error: Error: No recipients defined
+[07:07:26.418] Server  LOG        Reload env: .env
+[07:07:54.419] Server  LOG        Reload env: .env
+[07:07:58.454] Server  LOG     [v0] Sending email with: {}
+[07:07:59.601] Server  ERROR   [v0] Email send error: Error: Missing credentials for "PLAIN"
+[07:08:11.234] Server  LOG     [v0] Sending email with: {}
+[07:08:17.264] Server  ERROR   [v0] Email send error: Error: Missing credentials for "PLAIN"
+[07:10:19.692] Server  LOG        Reload env: .env
+[07:11:36.590] Server  LOG        Reload env: .env
+[07:11:40.311] Server  LOG        Reload env: .env
+[07:11:45.982] Server  LOG        Reload env: .env
+[07:12:47.044] Server  LOG     [v0] Sending email with: {}
+[07:12:49.966] Server  ERROR   [v0] Email send error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7e2afa3275esm8405796b3a.69 - gsmtp
+[07:13:09.482] Server  LOG        Reload env: .env
+[07:13:14.123] Server  LOG     [v0] Sending email with: {}
+[07:13:41.591] Server  LOG     [v0] Email sent successfully to user and admin
+[07:14:50.729] Server  LOG     [v0] Sending email with: {}
+[07:15:10.508] Server  LOG     [v0] Email sent successfully to user and admin
+[07:53:46.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:53:48.301] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[07:53:48.301] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[07:53:48.301] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765039833896}
+[07:53:49.680] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:53:49.904] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[07:53:49.904] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[07:53:49.904] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.137.35:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.137.35:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765039835553}
+[08:12:25.006] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/events color: rgb(120, 120, 120) color: inherit {"dp":"/events","o":"http://localhost:3000/events","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765040827095}
+[08:12:35.464] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765040837526}
+[08:25:01.255] Server  LOG        Reload env: .env
+[08:25:28.512] Server  LOG        Reload env: .env
+[08:26:04.875] Server  LOG        Reload env: .env
+[08:26:15.297] Server  LOG        Reload env: .env
+[08:26:20.355] Server  LOG        Reload env: .env
+[08:28:32.066] Server  LOG     [v0] Sending email with: {}
+[08:28:42.552] Server  LOG     [v0] Email sent successfully to user and admin
