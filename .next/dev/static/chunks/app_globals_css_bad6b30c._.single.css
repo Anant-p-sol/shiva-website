@@ -882,22 +882,6 @@
     aspect-ratio: 3 / 4.5;
   }
 
-  .aspect-\[3\/4\] {
-    aspect-ratio: 3 / 4;
-  }
-
-  .aspect-\[3\/5\] {
-    aspect-ratio: 3 / 5;
-  }
-
-  .aspect-\[3\/\] {
-    aspect-ratio: 3 / ;
-  }
-
-  .aspect-auto {
-    aspect-ratio: auto;
-  }
-
   .aspect-square {
     aspect-ratio: 1;
   }
@@ -1073,10 +1057,6 @@
 
   .h-auto {
     height: auto;
-  }
-
-  .h-dvh {
-    height: 100dvh;
   }
 
   .h-full {
