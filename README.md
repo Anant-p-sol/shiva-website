@@ -23,7 +23,7 @@ shiva-events/
 │   ├── layout.tsx              # Root layout with fonts
 │   └── globals.css             # Global styles & design tokens
 ├── components/
-│   ├── navigation.tsx          # Sticky navbar with mobile menu
+│   ├── navigationg.tsx          # Sticky navbar with mobile menu
 │   ├── hero.tsx                # Hero with image collage
 │   ├── about.tsx               # About section with image grid
 │   ├── services.tsx            # Service cards grid
