@@ -31,7 +31,7 @@ export function Hero() {
               to every detail. Our expert team brings your vision to life with elegance and creativity.
             </p>
             <button
-              onClick={() => handleScroll("contact")}
+              onClick={() => handleScroll("services")}
               className="inline-flex items-center gap-2 text-white px-8 py-4 rounded-lg font-medium transition-all shadow-lg hover:shadow-xl hover:scale-105"
               style={{ background: "linear-gradient(135deg, #d4a85a 0%, #1fa089 100%)" }}
             >
